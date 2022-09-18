@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div>
+<div style="<div style="margin: 0 auto;
+display: flex;
+justify-content:center;
+align-items:center">
     <a href="https://linkedin.com/in/royar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,7 +17,10 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=royzaa&style=flat-square&color=grey" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=royzaa&style=flat-square&color=grey" alt="" style="margin: 0 auto;
+display: flex;
+justify-content:center;
+align-items:center">
 
 <h1>
   Welcome &#128512
@@ -37,7 +43,7 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/royar)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/royar)
 
 ---
 
@@ -63,7 +69,7 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royzaa&theme=elegant&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royzaa&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royzaa&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
