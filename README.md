@@ -76,4 +76,5 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Turing Halting Problem: Komputer Tercanggih Belum Bisa Memecahkan Masalah Ini](https://medium.com/@arroyanzaa/turing-halting-problem-komputer-tercanggih-belum-bisa-memecahkan-masalah-ini-9bbd62b18fbc?source=rss-902273dfcb5e------2)
 <!-- BLOG-POST-LIST:END -->
