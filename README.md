@@ -72,6 +72,10 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royzaa&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### :electric_plug: My Badge:
+[![@royzaa's Holopin board](https://holopin.me/royzaa)](https://holopin.io/@royzaa)
+
+---
 
 ### :writing_hand: Blog Posts :
 
