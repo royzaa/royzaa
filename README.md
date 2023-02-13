@@ -67,7 +67,7 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royzaa&theme=elegant&hide_border=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=royzaa&count_private=true)                                                                                                                                         
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royzaa&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
