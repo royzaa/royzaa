@@ -69,7 +69,7 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=royzaa&count_private=true)                                                                                                                                         
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royzaa&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-oiop4mdi7-royzaa.vercel.app/api/top-langs/?username=royzaa&langs_count=6&layout=compact&count_private=true&hide=cmake,shaderlab,jupyter+notebook,html,blade,handlebars,php,c%2b%2b)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### :electric_plug: My Badge:
