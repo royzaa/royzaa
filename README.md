@@ -80,5 +80,6 @@ I am a Software Engineer Wanna Be <img src="https://media.giphy.com/media/WUlplc
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Perjalanan Migrasi Scalable Contenerized Web Menjadi Platform Serverless: Tidak Semudah…](https://medium.com/@arroyanzaa/perjalanan-migrasi-scalable-contenerized-web-menjadi-platform-serverless-tidak-semudah-68451f8ed2f0?source=rss-902273dfcb5e------2)
 - [Turing Halting Problem: Komputer Tercanggih Belum Bisa Memecahkan Masalah Ini](https://medium.com/@arroyanzaa/turing-halting-problem-komputer-tercanggih-belum-bisa-memecahkan-masalah-ini-9bbd62b18fbc?source=rss-902273dfcb5e------2)
 <!-- BLOG-POST-LIST:END -->
